@@ -1,0 +1,7 @@
+column_name,description
+YEAR,year of measurement (GlobalLandTemperaturesByCity.csv)
+CITY,city of measurement (GlobalLandTemperaturesByCity.csv)
+COUNTRY,country of measurement (GlobalLandTemperaturesByCity.csv)
+LATITUDE,latitude of measurement (GlobalLandTemperaturesByCity.csv)
+LONGITUDE,longitude of measurement (GlobalLandTemperaturesByCity.csv)
+AVG_TEMP,average temperature (GlobalLandTemperaturesByCity.csv)

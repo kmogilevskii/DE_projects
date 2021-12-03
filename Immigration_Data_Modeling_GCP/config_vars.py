@@ -1,0 +1,5 @@
+project_id      = 'bigquery-demo-325614'
+staging_dataset = 'immigration_dwh_stg'
+final_dataset   = 'immigration_dwh'
+gs_bucket       = 'bigquery-demo-325614'
+location        = 'US'

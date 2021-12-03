@@ -1,0 +1,6 @@
+column_name,description
+STATE_ID,unique identifier of the state where airport is located (airport-codes.csv)
+AIRPORT_NAME,full name of the airport (airport-codes.csv)
+IATA_CODE,International Air Transport Association code (airport-codes.csv)
+LOCAL_CODE,local code of an airport (airport-codes.csv)
+COORDINATES,latitude/longitude of an airport(airport-codes.csv)

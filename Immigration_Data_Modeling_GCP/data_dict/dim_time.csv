@@ -1,0 +1,8 @@
+column_name,description
+DATE,full arrival date (immigration parquet files)
+DAY,arrival day (immigration parquet files)
+MONTH,arrival month (immigration parquet files)
+YEAR,arrival month (immigration parquet files)
+QUARTER,arrival quarter (immigration parquet files)
+DAYOFWEEK,arrival day of the week (immigration parquet files)
+WEEKOFYEAR,arrival week of the year (immigration parquet files)
