@@ -48,3 +48,6 @@
 8. Run the following command:
 
    `python3 process.py --input1 gs://demo-files1/cards.txt --input2 gs://demo-files1/loan.txt  --output2 gs://demo-files1/loan_result/part  --output1 gs://demo-files1/card_results/part --runner DataflowRunner --project apache-beam-tutorial-336022 --temp_location gs://demo-temp1/tmp --region us-central1`
+
+![first part of the graph](./img/graph1.png)
+![second part of the graph](./img/graph2.png)
